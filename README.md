@@ -2,6 +2,6 @@
 
 ML Engineer — LLM compression, quantization, edge inference.
 
-Currently at Axiado, shipping models that run under 100ms on Arm.
+Currently at Axiado.
 
 [LinkedIn](https://linkedin.com/in/rutujapathade)

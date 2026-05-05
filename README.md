@@ -1,5 +1,3 @@
-### Rutuja Pathade
-
 ML Engineer — LLM compression, quantization, edge inference.
 
 Currently at Axiado.
